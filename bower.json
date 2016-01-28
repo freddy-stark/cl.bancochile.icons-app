@@ -1,0 +1,16 @@
+{
+  "name": "cl.bancochile.icons-app",
+  "authors": [
+    "Luis Ramos <oxxfreddyxxo@gmail.com>"
+  ],
+  "description": "Set de iconos apps banco de chile",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "iconos",
+    "icon"
+  ],
+  "license": "MIT",
+  "homepage": "bancochile.cl",
+  "private": true
+}

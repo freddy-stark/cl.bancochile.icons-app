@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'font-banco-chile-app';
+    src:    url('fonts/font-banco-chile-app.eot?z684h7');
+    src:    url('fonts/font-banco-chile-app.eot?z684h7#iefix') format('embedded-opentype'),
+        url('fonts/font-banco-chile-app.ttf?z684h7') format('truetype'),
+        url('fonts/font-banco-chile-app.woff?z684h7') format('woff'),
+        url('fonts/font-banco-chile-app.svg?z684h7#font-banco-chile-app') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="bch-icon-"], [class*=" bch-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'font-banco-chile-app' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bch-icon-mail:before {
+    content: "\e900";
+}
+.bch-icon-avanzar:before {
+    content: "\e901";
+}
+.bch-icon-ayuda:before {
+    content: "\e902";
+}
+.bch-icon-bell:before {
+    content: "\e903";
+}
+.bch-icon-celular:before {
+    content: "\e904";
+}
+.bch-icon-cerrar:before {
+    content: "\e905";
+}
+.bch-icon-check:before {
+    content: "\e906";
+}
+.bch-icon-config:before {
+    content: "\e907";
+}
+.bch-icon-editar:before {
+    content: "\e908";
+}
+.bch-icon-error:before {
+    content: "\e909";
+}
+.bch-icon-flecha-abajo:before {
+    content: "\e90a";
+}
+.bch-icon-flecha-arriba:before {
+    content: "\e90b";
+}
+.bch-icon-home:before {
+    content: "\e90c";
+}
+.bch-icon-mas:before {
+    content: "\e90d";
+}
+.bch-icon-menos:before {
+    content: "\e90e";
+}
+.bch-icon-menu:before {
+    content: "\e90f";
+}
+.bch-icon-ok:before {
+    content: "\e910";
+}
+.bch-icon-salir-app:before {
+    content: "\e911";
+}
+.bch-icon-selector:before {
+    content: "\e912";
+}
+.bch-icon-telefono:before {
+    content: "\e913";
+}
+.bch-icon-twitter:before {
+    content: "\e914";
+}
+.bch-icon-volver:before {
+    content: "\e915";
+}
+.bch-icon-youtube:before {
+    content: "\e916";
+}
+
